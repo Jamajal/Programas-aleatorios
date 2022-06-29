@@ -1,0 +1,5 @@
+Programa deve ser executado em um terminal, testado no cmd.
+Objetivo do programa é retornar a quantidade de palavras por minuto um usuário é capaz
+de digitar, estimando uma média de 5 caracteres por palavra.
+Na linha 42 se remover a "/ 5" do final, o programa passa a calcular a quantidade de caracteres
+por minuto, caso preferir.
